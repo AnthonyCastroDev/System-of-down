@@ -1,9 +1,8 @@
-# System-of-down
+# 🚀 System-of-down
 
-Rafael Santiago - Qualidade
+## 👥 Integrantes e Papéis
 
-Anthony Castro - Integrador
-
-Nicolas Leredo - produvt Owner
-
-Gustavo Pignata - Escriba
+* 🛡️ **Rafael Santiago** — Responsável pela Qualidade
+* 🔄 **Anthony Castro** — Integrador do Sistema
+* 👑 **Nicolas Leredo** — Product Owner (PO)
+* ✍️ **Gustavo Pignata** — Escriba / Documentação
