@@ -1,5 +1,9 @@
 # System-of-down
 
-rafael santiago - Qualidade
+Rafael Santiago - Qualidade
 
 Anthony Castro - Integrador
+
+Nicolas Leredo - produvt Owner
+
+Gustavo Pignata - Escriba
