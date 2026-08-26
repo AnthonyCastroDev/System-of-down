@@ -11,4 +11,4 @@
 ## Descrição de projeto
 **Biodigestores Mapeados**
 
-Uma proposta inovadora para melhorar o meio ambiente e a relação ao descarte de residuos 
+Um projeto que propõe otimizar o aproveitamento de resíduos orgânicos e a manutenção de efluentes em corpos hídricos. 
